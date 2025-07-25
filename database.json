@@ -1,0 +1,20 @@
+{
+  "settings": {
+    "online": false,
+    "autoread": false,
+    "autorecord": false,
+    "autotype": false,
+    "autoswview": false,
+    "groupevent": false,
+    "adminevent": false,
+    "welcome": false,
+    "worktype": "public",
+    "ntsfw": false,
+    "autoswlike": false,
+    "autoreact": false
+  },
+  "auth": {
+    "ownerNumbers": []
+  },
+  "users": []
+}
